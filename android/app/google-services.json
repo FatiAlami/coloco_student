@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "572790146173",
+    "firebase_url": "https://student-coloco-5037e.firebaseio.com",
+    "project_id": "student-coloco-5037e",
+    "storage_bucket": "student-coloco-5037e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572790146173:android:bd1c1460db6ff078b95d14",
+        "android_client_info": {
+          "package_name": "com.example.colocationprojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572790146173-5d5gtq6q0al423e8hcc0d16oo8c5rrq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwM2qfN3XLmwrVU0r-OtKddQX_ra27TIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572790146173-5d5gtq6q0al423e8hcc0d16oo8c5rrq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
